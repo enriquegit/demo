@@ -1,0 +1,3 @@
+# LICENSE
+
+A license file.
